@@ -73,7 +73,7 @@ Mi objetivo principal es expandir mis habilidades actuales y contribuir en proye
 
 ### 🎯 Mis Objetivos
 
-* **Contribuir activamente a proyectos Open Source:** Aplicando mis habilidades de back-end y aprendiendo de la comunidad para crear soluciones robustas y eficientes.
+* **Contribuir activamente a proyectos Open Source:** Aplicando mis habilidades de back-end y aprendiendo de la comunidad para crear soluciones robustas y eficientes de manera profesional.
 * **Dominar la implementación de arquitecturas de Microservicios y REST APIs:** Buscando construir sistemas distribuidos que sean escalables, eficientes y que puedan interactuar fluidamente entre sí.
 * **Documentar y compartir mi conocimiento:** A través de artículos en mi blog o contribuciones en plataformas técnicas, enfocándome en el análisis de datos y la creación de funcionalidades específicas.
 
